@@ -65,6 +65,7 @@ env/
 ENV/
 .env
 .venv
+cert_env/
 
 # PDF files
 *.pdf
